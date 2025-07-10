@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BPAR - Propiedades</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <img src="anrodlog.png" alt="BPAR Logo" class="logo">
+                
+            </div>
+        </div>
+    </header>
+
+    <main class="main">
+        <div class="container">
+            <div class="properties-grid" id="propertiesGrid">
+                <!-- Las tarjetas se generarán dinámicamente con JavaScript -->
+            </div>
+        </div>
+    </main>
+
+    <!-- Modal para ver imágenes en tamaño grande -->
+    <div id="imageModal" class="modal">
+        <span class="close-modal" onclick="closeModal()">&times;</span>
+        <button class="modal-nav modal-prev" onclick="changeImage(-1)">&#10094;</button>
+        <button class="modal-nav modal-next" onclick="changeImage(1)">&#10095;</button>
+        <div class="modal-content">
+            <img id="modalImage" class="modal-image" src="" alt="">
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html> 
