@@ -48,28 +48,7 @@ const properties = [
             "propiedades/CASA AV. UNIVERITARIA FRENTE LA PLAZA ALI PRIMERA CANCHUNCHU NUEVO/IMG_20250106_131349_140.jpg"
         ]
     },
-    {
-        folder: "CASA CALLE JFB",
-        title: "Casa en Calle JFB",
-        description: "Acogedora casa ubicada en calle JFB. Ideal para familias que buscan tranquilidad y comodidad en una zona residencial.",
-        images: [
-            "propiedades/CASA CALLE JFB/IMG_20250112_113608_878.jpg",
-            "propiedades/CASA CALLE JFB/IMG_20250112_113616_293.jpg",
-            "propiedades/CASA CALLE JFB/IMG_20250112_113629_737.jpg",
-            "propiedades/CASA CALLE JFB/IMG_20250112_113640_011.jpg"
-        ]
-    },
-    {
-        folder: "CASA CALLEJON LOS MORENOS",
-        title: "Casa en Callejón Los Morenos",
-        description: "Casa tradicional en el pintoresco callejón Los Morenos. Perfecta para quienes aprecian la arquitectura local y la vida de barrio.",
-        images: [
-            "propiedades/CASA CALLEJON LOS MORENOS/IMG_20250112_160603_849.jpg",
-            "propiedades/CASA CALLEJON LOS MORENOS/IMG_20250112_160605_952.jpg",
-            "propiedades/CASA CALLEJON LOS MORENOS/IMG_20250112_160609_936.jpg"
-        ]
-    },
-    {
+     {
         folder: "CASA Y TERRENO, CALLE FIGUERAS",
         title: "Casa y Terreno en Calle Figueras, Sector Los Cocos",
         description: "Casa y Terreno, 3 Habitaciones, 2 Baños, Sala Cocina, Comedor, Porche, Tech de Plata Banda y Enrejado. Superfice de Terreno de 600Mts2 y área de construcción de 150Mts2.",
@@ -144,32 +123,32 @@ const properties = [
             "propiedades/CASA Y TERRENO, CALLE FIGUERAS/IMG_20240905_160455_545.jpg"*/
         ]
     },
-    {
-        folder: "EDIFICIO COMERCIAL CALLE INDEPENDENCIA CON SANFELIZ",
+        {
+        folder: "EDIFICIO COMERCIAL CALLE INDEPENDENCIA CON SAN FELIX",
         title: "Edificio Comercial en Calle Independencia",
-        description: "Edificio comercial estratégicamente ubicado en la intersección de Independencia y Sanfeliz. Excelente para negocios y oficinas.",
+        description: "Edificio comercial Ubicado en Calle Independiencia con San Felix, consta de 4 Locales Comerciales y 15 Oficinas, con una Área de Construcción de 1500Mts2.",
         images: [
-            "propiedades/EDIFICIO COMERCIAL CALLE INDEPENDENCIA CON SANFELIZ/IMG_20250708_114111_759.jpg",
-            "propiedades/EDIFICIO COMERCIAL CALLE INDEPENDENCIA CON SANFELIZ/IMG_20250708_114117_610.jpg",
-            "propiedades/EDIFICIO COMERCIAL CALLE INDEPENDENCIA CON SANFELIZ/IMG_20250708_114123_034.jpg",
-            "propiedades/EDIFICIO COMERCIAL CALLE INDEPENDENCIA CON SANFELIZ/IMG_20250708_114130_751.jpg",
-            "propiedades/EDIFICIO COMERCIAL CALLE INDEPENDENCIA CON SANFELIZ/IMG_20250708_114137_351.jpg",
-            "propiedades/EDIFICIO COMERCIAL CALLE INDEPENDENCIA CON SANFELIZ/IMG_20250708_114142_219.jpg",
-            "propiedades/EDIFICIO COMERCIAL CALLE INDEPENDENCIA CON SANFELIZ/IMG_20250708_114150_039.jpg",
-            "propiedades/EDIFICIO COMERCIAL CALLE INDEPENDENCIA CON SANFELIZ/IMG_20250708_114155_004.jpg",
-            "propiedades/EDIFICIO COMERCIAL CALLE INDEPENDENCIA CON SANFELIZ/IMG_20250708_114202_446.jpg",
-            "propiedades/EDIFICIO COMERCIAL CALLE INDEPENDENCIA CON SANFELIZ/IMG_20250708_114207_234.jpg",
-            "propiedades/EDIFICIO COMERCIAL CALLE INDEPENDENCIA CON SANFELIZ/IMG_20250708_114219_017.jpg",
-            "propiedades/EDIFICIO COMERCIAL CALLE INDEPENDENCIA CON SANFELIZ/IMG_20250708_114228_410.jpg",
-            "propiedades/EDIFICIO COMERCIAL CALLE INDEPENDENCIA CON SANFELIZ/IMG_20250708_114238_402.jpg",
-            "propiedades/EDIFICIO COMERCIAL CALLE INDEPENDENCIA CON SANFELIZ/IMG_20250708_114239_875.jpg",
-            "propiedades/EDIFICIO COMERCIAL CALLE INDEPENDENCIA CON SANFELIZ/IMG_20250708_114248_951.jpg",
-            "propiedades/EDIFICIO COMERCIAL CALLE INDEPENDENCIA CON SANFELIZ/IMG_20250708_114313_690.jpg",
-            "propiedades/EDIFICIO COMERCIAL CALLE INDEPENDENCIA CON SANFELIZ/IMG_20250708_114321_093.jpg",
-            "propiedades/EDIFICIO COMERCIAL CALLE INDEPENDENCIA CON SANFELIZ/IMG_20250708_114330_258.jpg",
-            "propiedades/EDIFICIO COMERCIAL CALLE INDEPENDENCIA CON SANFELIZ/IMG_20250708_114338_789.jpg",
-            "propiedades/EDIFICIO COMERCIAL CALLE INDEPENDENCIA CON SANFELIZ/IMG_20250708_114350_521.jpg",
-            "propiedades/EDIFICIO COMERCIAL CALLE INDEPENDENCIA CON SANFELIZ/IMG_20250708_114403_294.jpg",
+            "propiedades/EDIFICIO COMERCIAL CALLE INDEPENDENCIA CON SAN FELIX/1.jpg",
+            "propiedades/EDIFICIO COMERCIAL CALLE INDEPENDENCIA CON SAN FELIX/2.jpg",
+            "propiedades/EDIFICIO COMERCIAL CALLE INDEPENDENCIA CON SAN FELIX/3.jpg",
+            "propiedades/EDIFICIO COMERCIAL CALLE INDEPENDENCIA CON SAN FELIX/4.jpg",
+            "propiedades/EDIFICIO COMERCIAL CALLE INDEPENDENCIA CON SAN FELIX/5.jpg",
+            "propiedades/EDIFICIO COMERCIAL CALLE INDEPENDENCIA CON SAN FELIX/6.jpg",
+            "propiedades/EDIFICIO COMERCIAL CALLE INDEPENDENCIA CON SAN FELIX/7.jpg",
+            "propiedades/EDIFICIO COMERCIAL CALLE INDEPENDENCIA CON SAN FELIX/8.jpg",
+            "propiedades/EDIFICIO COMERCIAL CALLE INDEPENDENCIA CON SAN FELIX/9.jpg",
+            "propiedades/EDIFICIO COMERCIAL CALLE INDEPENDENCIA CON SAN FELIX/10.jpg",
+            "propiedades/EDIFICIO COMERCIAL CALLE INDEPENDENCIA CON SAN FELIX/11.jpg",
+            "propiedades/EDIFICIO COMERCIAL CALLE INDEPENDENCIA CON SAN FELIX/12.jpg",
+            "propiedades/EDIFICIO COMERCIAL CALLE INDEPENDENCIA CON SAN FELIX/13.jpg",
+            "propiedades/EDIFICIO COMERCIAL CALLE INDEPENDENCIA CON SAN FELIX/14.jpg",
+            "propiedades/EDIFICIO COMERCIAL CALLE INDEPENDENCIA CON SAN FELIX/15.jpg",
+            "propiedades/EDIFICIO COMERCIAL CALLE INDEPENDENCIA CON SAN FELIX/16.jpg",
+            "propiedades/EDIFICIO COMERCIAL CALLE INDEPENDENCIA CON SAN FELIX/17.jpg",
+            "propiedades/EDIFICIO COMERCIAL CALLE INDEPENDENCIA CON SAN FELIX/18.jpg",
+            "propiedades/EDIFICIO COMERCIAL CALLE INDEPENDENCIA CON SAN FELIX/19.jpg",
+            "propiedades/EDIFICIO COMERCIAL CALLE INDEPENDENCIA CON SAN FELIX/20.jpg",
+            /*"propiedades/EDIFICIO COMERCIAL CALLE INDEPENDENCIA CON SANFELIZ/IMG_20250708_114403_294.jpg",
             "propiedades/EDIFICIO COMERCIAL CALLE INDEPENDENCIA CON SANFELIZ/IMG_20250708_114418_216.jpg",
             "propiedades/EDIFICIO COMERCIAL CALLE INDEPENDENCIA CON SANFELIZ/IMG_20250708_114419_999.jpg",
             "propiedades/EDIFICIO COMERCIAL CALLE INDEPENDENCIA CON SANFELIZ/IMG_20250708_114437_420.jpg",
@@ -181,19 +160,51 @@ const properties = [
             "propiedades/EDIFICIO COMERCIAL CALLE INDEPENDENCIA CON SANFELIZ/IMG_20250708_114530_755.jpg",
             "propiedades/EDIFICIO COMERCIAL CALLE INDEPENDENCIA CON SANFELIZ/IMG_20250708_114538_719.jpg",
             "propiedades/EDIFICIO COMERCIAL CALLE INDEPENDENCIA CON SANFELIZ/IMG_20250708_114613_466.jpg",
-            "propiedades/EDIFICIO COMERCIAL CALLE INDEPENDENCIA CON SANFELIZ/IMG_20250708_114650_548.jpg"
+            "propiedades/EDIFICIO COMERCIAL CALLE INDEPENDENCIA CON SANFELIZ/IMG_20250708_114650_548.jpg"*/
         ]
     },
     {
-        folder: "GALPON CALLE COLOMBIA",
-        title: "Galpón en Calle Colombia",
-        description: "Espacioso galpón industrial en calle Colombia. Perfecto para almacenamiento, talleres o conversión a uso comercial.",
+        folder: "CASA CALLE JFB",
+        title: "Casa en Calle JFB",
+        description: "Acogedora casa ubicada en calle JFB. Ideal para familias que buscan tranquilidad y comodidad en una zona residencial.",
         images: [
-            "propiedades/GALPON CALLE COLOMBIA/IMG_20240929_131429_825.jpg",
-            "propiedades/GALPON CALLE COLOMBIA/IMG_20241004_140656_735.jpg",
-            "propiedades/GALPON CALLE COLOMBIA/IMG_20241009_120057_554.jpg",
-            "propiedades/GALPON CALLE COLOMBIA/IMG_20241009_120102_437.jpg",
-            "propiedades/GALPON CALLE COLOMBIA/IMG_20241009_120113_757.jpg"
+            "propiedades/CASA CALLE JFB/IMG_20250112_113608_878.jpg",
+            "propiedades/CASA CALLE JFB/IMG_20250112_113616_293.jpg",
+            "propiedades/CASA CALLE JFB/IMG_20250112_113629_737.jpg",
+            "propiedades/CASA CALLE JFB/IMG_20250112_113640_011.jpg"
+        ]
+    },
+    {
+        folder: "CASA CALLEJON LOS MORENOS",
+        title: "Casa en Callejón Los Morenos",
+        description: "Casa tradicional en el pintoresco callejón Los Morenos. Perfecta para quienes aprecian la arquitectura local y la vida de barrio.",
+        images: [
+            "propiedades/CASA CALLEJON LOS MORENOS/IMG_20250112_160603_849.jpg",
+            "propiedades/CASA CALLEJON LOS MORENOS/IMG_20250112_160605_952.jpg",
+            "propiedades/CASA CALLEJON LOS MORENOS/IMG_20250112_160609_936.jpg"
+        ]
+    },
+   
+
+    {
+        folder: "GALPÓN CALLE COLOMBIA",
+        title: "Galpón en Calle Colombia",
+        description: "Galpón de 450Mts2 con una Oficina, un baño, una habiatación para vigilancia, una cava cuarto de 7 metros X 12 metros operativa (Antiguo deposito helados efe).",
+        images: [
+            "propiedades/GALPÓN CALLE COLOMBIA/1.jpg",
+            "propiedades/GALPÓN CALLE COLOMBIA/2.jpg",
+            "propiedades/GALPÓN CALLE COLOMBIA/3.jpg",
+            "propiedades/GALPÓN CALLE COLOMBIA/4.jpg",
+            "propiedades/GALPÓN CALLE COLOMBIA/5.jpg",
+            "propiedades/GALPÓN CALLE COLOMBIA/6.jpg",
+            "propiedades/GALPÓN CALLE COLOMBIA/7.jpg",
+            "propiedades/GALPÓN CALLE COLOMBIA/8.jpg",
+            "propiedades/GALPÓN CALLE COLOMBIA/9.jpg",
+            "propiedades/GALPÓN CALLE COLOMBIA/10.jpg",
+            "propiedades/GALPÓN CALLE COLOMBIA/11.jpg"
+
+
+
         ]
     },
     {
