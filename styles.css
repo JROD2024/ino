@@ -261,6 +261,40 @@ body {
     color: #223961;
 }
 
+      /* Contact Section */
+      .contact-section {
+        background: #223961;
+        color: white;
+        padding: 40px 0;
+        margin-top: 40px;
+    }
+
+    .contact-content {
+        text-align: center;
+    }
+
+    .contact-content h3 {
+        font-size: 1.8rem;
+        margin-bottom: 20px;
+    }
+
+    .contact-info {
+        display: flex;
+        justify-content: center;
+        gap: 40px;
+        flex-wrap: wrap;
+        margin-top: 20px;
+    }
+
+    .contact-item {
+        text-align: center;
+    }
+
+    .contact-item h4 {
+        margin-bottom: 10px;
+        font-size: 1.1rem;
+    }
+
 /* Responsive */
 @media (max-width: 768px) {
     .header-content {
